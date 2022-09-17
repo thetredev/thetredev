@@ -12,6 +12,18 @@ I'm Timo, a software guy and tinkerer from Germany with a never ending cup of cu
 - 💬 Got questions? [Ask!](https://github.com/thetredev/thetredev/issues)
 
 
+## Experience
+
+- **Having fun!** - when I have fun doing something I'm much more into it and can be much more efficient. I make sure I never forget that.
+- **Software development**: mostly Python, C#, C++. Not so much C, but I can get around. I'm curious about new stuff coming out and always willing to learn other languages and/or different ways to go about developing software.
+- **Software deployment**: GitLab CI/CD, GitHub workflows, packaging software (deb, rpm, ...)
+- **DevOps - to a point**:
+    - **Docker/Podman**: building images, running containers, Compose deployments, networking, you name it
+    - **Kubernetes**: Setting up bare metal clusters using [k0s](https://github.com/k0sproject/k0s), Helm, ArgoCD. I'm more Dev than Ops, so RBAC is still on my TODO list :)
+
+In that order.
+
+
 ## Side Projects
 
 - [Shelly](https://github.com/thetredev/shelly) - Python command line parser, decorator style
