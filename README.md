@@ -27,6 +27,7 @@ In that order.
 ## Side Projects
 
 - [Shelly](https://github.com/thetredev/shelly) - Python command line parser, decorator style
+- [CppArgParse](https://github.com/thetredev/cppargparse) - C++ command line parsing made simple
 - [steamcmd](https://github.com/thetredev/steamcmd) - Sane SteamCMD docker images
 - [Ultimate Deathmatch](https://github.com/thetredev/udm) - Source.Python deathmatch plugin for Counter-Strike: Source and Counter-Strike: Global Offensive
 - [FlashFun](https://github.com/thetredev/flashfun) - Source.Python plugin for Counter-Strike: Source and Counter-Strike: Global Offensive where flashbang grenades are your primary weapons
