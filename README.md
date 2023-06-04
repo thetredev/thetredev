@@ -6,7 +6,7 @@ I'm Timo, a software guy and tinkerer from Germany with a never ending cup of cu
 ## About me
 
 - 🏫 Graduated from [Reutlingen University](https://www.reutlingen-university.de/) with a Bachelor of Science
-- 💼 Currently working as software engineer at [Corscience GmbH & Co. KG](https://www.corscience.com) on medical software projects
+- 💼 Currently working as IT Manager R&D at [Corscience GmbH & Co. KG](https://www.corscience.com) helping the R&D department get things done outside of their realm of responsibilities like CI/CD and infrastructure work
 - ❤️ I love writing code, especially Python and C#
 - ☁️ Passionate about Linux, DevOps and container technologies
 - 💬 Got questions? [Ask!](https://github.com/thetredev/thetredev/issues)
