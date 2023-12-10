@@ -26,7 +26,7 @@ In that order.
 
 ## Side Projects
 
-- [xdeb-install](https://github.com/thetredev/xdeb-install) - Automation wrapper for the [xdeb](https://github.com/toluschr/xdeb) utility
+- [xdeb-install](https://github.com/xdeb-org/xdeb-install) - Automation wrapper for the [xdeb](https://github.com/toluschr/xdeb) utility with its own ecosystem behind it. See https://github.com/xdeb-org
 - [steamcmd](https://github.com/thetredev/steamcmd) - Sane SteamCMD docker images
 - [Ultimate Deathmatch](https://github.com/thetredev/udm) - Source.Python deathmatch plugin for Counter-Strike: Source and Counter-Strike: Global Offensive
 - [FlashFun](https://github.com/thetredev/flashfun) - Source.Python plugin for Counter-Strike: Source and Counter-Strike: Global Offensive where flashbang grenades are your primary weapons
