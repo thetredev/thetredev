@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Timo, a software guy and tinkerer from Germany with a never ending cup of curiosity.
+I'm Timo, an IT systems & software enthusiast from Germany with a never ending cup of curiosity.
 
 
 ## About me
